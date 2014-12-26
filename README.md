@@ -1,4 +1,10 @@
-<pre name="code" class="html">@ECHO off
+<pre name="code" class="html">
+
+平常大家做开发的时候电脑装的工具多了不方便管理.
+所以写了一个bat脚本大家有需要的可以复制也可以fork自己去改.
+添加到开始菜单栏或者桌面都是不错的.
+
+@ECHO off
 TITLE Switch %date% %time%  欢迎使用
 :A
 color A
